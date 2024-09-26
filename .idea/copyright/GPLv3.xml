@@ -1,0 +1,6 @@
+<component name="CopyrightManager">
+  <copyright>
+    <option name="notice" value="Copyright (c) &amp;#36;{today.year} &amp;#36;{project.name} contributors.&#10;This file is part of &amp;#36;{project.name}. &amp;#36;{project.name} is free software:&#10;You can redistribute it and/or modify it under the terms of the GNU General Public License as published by&#10;the Free Software Foundation, either version 3 of the License, or (at your option) any later version.&#10;You should have received a copy of the GNU General Public License along with &amp;#36;{project.name}.&#10;If not, see: https://www.gnu.org/licenses/." />
+    <option name="myName" value="GPLv3" />
+  </copyright>
+</component>
